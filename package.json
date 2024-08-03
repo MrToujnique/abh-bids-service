@@ -1,0 +1,13 @@
+{
+  "name": "abh-bids-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrToujnique/abh-bids-service.git",
+  "author": "MrToujnique <toczusiek@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
